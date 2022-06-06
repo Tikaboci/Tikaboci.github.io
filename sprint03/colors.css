@@ -1,0 +1,13 @@
+#colorDiv {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(red, green, blue);
+}
+
+html {
+    background-color: #134983;
+    background-image: url("img/virag.jpg");
+    background-position: left center;
+    background-repeat: repeat;
+}

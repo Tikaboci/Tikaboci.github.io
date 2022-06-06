@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Oswald";
+    src: url("fonts/Oswald/Oswald-Regular.ttf");
+    font-weight: 500;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto:ital@1&display=swap');
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    margin: 2%;
+}
+
+
+h1 {
+    color: rgba(7, 245, 118, 0.999);
+    font-family: 'Dancing script' survive;
+    text-align: left;
+    margin: 1%;
+}
+
+h2 {
+    color: rgba(245, 247, 248, 0.934);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    margin: 1%;
+}
+
+
+#ételekHeader {
+    color: rgb(245, 9, 9);
+    font-family: "Roboto", sans-serif;
+}
+
+#üdítőkHeader{
+    color: rgb(225, 239, 211);
+}
+.content {
+    color: rgb(245, 241, 241);
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+    text-transform: normal;
+    line-height: 30px;
+    font-weight: bold;
+    margin: 2%;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.img-div {
+    background-color: rgb(243, 246, 247);
+}
+img {
+    width: 10%;
+    box-shadow: 4px 4px 13px rgba(245, 247, 248, 0.934);
+    margin: 2%;
+
+}
+#img-1 {
+    visibility: 40
+}
